@@ -1,0 +1,3 @@
+include ':BannerLib'
+include ':app'
+rootProject.name = "TTBanner"
